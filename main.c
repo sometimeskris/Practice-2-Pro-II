@@ -1,10 +1,10 @@
 /*
  * TITLE: PROGRAMMING II LABS
  * SUBTITLE: Practical 2
- * AUTHOR 1: KRIS SANTISO SAMPEDRO LOGIN 1: kris.santiso@udc.es
- * AUTHOR 2: Diego Arturo Contreras Gonzalez LOGIN 2: diego.contreras@udc.es
- * GROUP: 6.1
- * DATE: 19 / 04 / 24
+ * AUTHOR 1: --- LOGIN 1: ---
+ * AUTHOR 2: --- LOGIN 2: ---
+ * GROUP: -
+ * DATE: - / - / -
  */
 
 #include <stdio.h>
